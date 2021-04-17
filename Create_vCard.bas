@@ -6,7 +6,7 @@ Sub Create_vCard_File()
 ' 16/11/2019
 ' Mesut Akcan
 ' makcan@gmail.com
-' www.akcansof.com
+' akcansof.blogspot.com
 ' https://github.com/akcansoft/XLS-to-VCF
 ' youtube.com/mesutakcan
 
