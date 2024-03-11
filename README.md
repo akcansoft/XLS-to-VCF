@@ -4,4 +4,5 @@ This file contains Excel VBA macros.
 
 Mesut Akcan<br/>
 https://akcanSoft.blogspot.com <br/>
+https://mesutakcan.blogspot.com <br/>
 www.youtube.com/mesutakcan
